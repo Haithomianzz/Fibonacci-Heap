@@ -1,6 +1,6 @@
 # Fibonacci Heap Visualization
 
-This project was developed as a group assignment for a university course. The team members collaborated to create a visualization tool for Fibonacci Heaps using C++ and the Dear ImGui library. The following GitHub usernames represent the contributors to this project: [@Omar-Helwa](https://github.com/Omar-Helwa), [@PeterArsanious2004](https://github.com/PeterArsanious2004), [@Ahmed-Fahmy00](https://github.com/Ahmed-Fahmy00), [@Haithomianzz](https://github.com/Haithomianzz).
+This project was developed as a group assignment for a university course. The team members collaborated to create a visualization tool for Fibonacci Heaps using C++ and the Dear ImGui library. The following GitHub usernames represent the contributors to this project: [@Omar-Helwa](https://github.com/Omar-Helwa), [@PeterArsanious2004](https://github.com/PeterArsanious2004), [@Ahmed-Fahmy00](https://github.com/Ahmed-Fahmy00), [@Haithomianzz](https://github.com/Haithomianzz), [@BimaAbf](https://github.com/BimaAbf).
 
 We believe that the success of this project is a testament to our shared commitment to teamwork, open communication, and the equitable distribution of workload. We are proud of the collective effort we put forth and the knowledge we gained through this collaborative experience.
 
